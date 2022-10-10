@@ -1,6 +1,6 @@
 # 💫 About Me:
  Crypto Enthusiast , Solidity Developer, Web 3, Full Stack Web Developer, Mobile(Flutter & React) Developer
- My Repos are private, Send a mail
+ My Repos are private for Decentralization purposes, Send a mail
 
 
 ## 🌐 Socials:
