@@ -1,5 +1,6 @@
 # 💫 About Me:
-Crypto Enthusiast , Solidity Developer, Web 3, Full Stack Web Developer, Mobile(Flutter & React) Developer
+ Crypto Enthusiast , Solidity Developer, Web 3, Full Stack Web Developer, Mobile(Flutter & React) Developer
+ My Repos are private, Send a mail
 
 
 ## 🌐 Socials:
